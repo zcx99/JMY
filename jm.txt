@@ -14,7 +14,7 @@ CCTV12,http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 CCTV13,http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
 CCTV14,http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
-
+环球电视台,http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
 江苏卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8
