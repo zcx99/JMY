@@ -14,7 +14,25 @@ CCTV12,http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
 CCTV13,http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
 CCTV14,http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
+庆TV,rtsp://119.39.49.116:554/ch00000090990000001033.sdp?vcdnid=001
+经贸频道,rtsp://119.39.49.116:554/ch00000090990000001034.sdp?vcdnid=001
+南方卫视(广东版)-2,http://stream1.grtn.cn/tvs2/sd/live.m3u8
+
+兵团卫视,http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8
+三沙卫视,http://stream1.hnntv.cn/ssws/sd/live.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-cys/index.m3u8
+
 环球电视台,http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+金鹰纪实,rtsp://119.39.49.116:554/ch00000090990000001057.sdp?vcdnid=001
+金鹰卡通,rtsp://119.39.49.116:554/ch00000090990000001058.sdp?vcdnid=001
+北京少儿,rtsp://119.39.49.116:554/ch00000090990000001059.sdp?vcdnid=001
+优漫卡通,rtsp://119.39.49.116:554/ch00000090990000001071.sdp?vcdnid=001
+湖南电影,rtsp://119.39.49.116:554/ch00000090990000001070.sdp?vcdnid=001
+优漫卡通,rtsp://119.39.49.116:554/ch00000090990000001071.sdp?vcdnid=001
+电子体育,rtsp://119.39.49.116:554/ch00000090990000001038.sdp?vcdnid=001
+新闻频道,rtsp://119.39.49.116:554/ch00000090990000001035.sdp?vcdnid=001
+重
+
 
 江苏卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8
