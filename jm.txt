@@ -18,7 +18,7 @@ CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 江苏卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8
 北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8
 湖南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8
-浙江卫视，http://223.110.242.130:6610/cntv/live1/zhejiangstv/zhejiangstv
+浙江卫视，http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8，   http://223.110.242.130:6610/cntv/live1/zhejiangstv/zhejiangstv
 广东卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
 东方卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
 深圳卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8
