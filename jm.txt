@@ -98,8 +98,6 @@ CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 壹电视新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
 
 好莱坞中文,http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd#rtmp://58.200.131.3:1935/livetv/chchd
-
 环球电视台,http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
 港台RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
 香港奇妙电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
