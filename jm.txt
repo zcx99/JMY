@@ -67,13 +67,12 @@ CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 江苏影视，http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 广东新闻，http://nclive.grtn.cn/xwpd/sd/live.m3u8
 北京新闻，http://ivi.bupt.edu.cn/hls/btv9.m3u8
-南方卫视(广东版),http://stream1.grtn.cn/tvs2/sd/live.m3u8
+
 兵团卫视,http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8
 
 金鹰卡通,http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8
 
 卡酷少儿,http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225871/1.m3u8
-第一财经,http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
 
 
 宫廷剧场，http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CD/playlist.m3u8
@@ -92,15 +91,13 @@ CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 凤凰中文,http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8
 中天新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8#http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
-年代新闻,http://60.250.23.14:18080/eranews/index.m3u8
+
 非凡新闻,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
 东森新闻,http://125.227.35.176:18080/CtiNews/index.m3u8#http://60.250.23.14:18080/CtiNews/index.m3u8
 壹电视新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
 
 好莱坞中文,http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
 环球电视台,http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-港台RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on
-香港奇妙电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 英国天空新闻台,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
