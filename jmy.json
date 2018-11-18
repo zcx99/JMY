@@ -1,0 +1,528 @@
+{
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "CCTV1",
+            "num": "0001",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV2",
+            "num": "0002",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV3",
+            "num": "0003",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV4",
+            "num": "0004",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV5",
+            "num": "0005",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV5+",
+            "num": "0006",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225604/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV6",
+            "num": "0007",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV7",
+            "num": "0008",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225546/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV8",
+            "num": "0009",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV9",
+            "num": "0010",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV10",
+            "num": "0011",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV11",
+            "num": "0012",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225552/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV12",
+            "num": "0013",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV13",
+            "num": "0014",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV14",
+            "num": "0015",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV15",
+            "num": "0016",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "北京卫视",
+            "num": "0017",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江苏卫视",
+            "num": "0018",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "湖南卫视",
+            "num": "0019",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "浙江卫视",
+            "num": "0020",
+            "urllist": "http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "广东卫视",
+            "num": "0021",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "东方卫视",
+            "num": "0022",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "深圳卫视",
+            "num": "0023",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "山东卫视",
+            "num": "0024",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "天津卫视",
+            "num": "0025",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "湖北卫视",
+            "num": "0026",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西卫视",
+            "num": "0027",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 2台",
+            "num": "0028",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv02"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 3台",
+            "num": "0029",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv03"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 4台",
+            "num": "0030",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv04"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 5台",
+            "num": "0031",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv05"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 6台",
+            "num": "0032",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv06"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 7台",
+            "num": "0033",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv07"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西 8台",
+            "num": "0034",
+            "urllist": "http://live03.jxtvcn.com.cn/live/jxtv08"
+        },
+        {
+            "itemid": "uid01",
+            "name": "重庆卫视",
+            "num": "0035",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "辽宁卫视",
+            "num": "0036",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "东南卫视",
+            "num": "0037",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225598/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "四川卫视",
+            "num": "0038",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225570/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "广西卫视",
+            "num": "0039",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225554/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "河北卫视",
+            "num": "0040",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225602/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "山西卫视",
+            "num": "0041",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225576/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "陕西卫视",
+            "num": "0042",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225626/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "贵州卫视",
+            "num": "0043",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225540/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青海卫视",
+            "num": "0044",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225580/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "安徽卫视",
+            "num": "0045",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "宁夏卫视",
+            "num": "0046",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225628/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "甘肃卫视",
+            "num": "0047",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "新疆卫视",
+            "num": "0048",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "云南卫视",
+            "num": "0049",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "西藏卫视",
+            "num": "0050",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "黑龙江卫视",
+            "num": "0051",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "内蒙古卫视",
+            "num": "0052",
+            "urllist": "http://ott.js.chinamobile.com/PLTV/3/224/3221225624/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "旅游卫视",
+            "num": "0053",
+            "urllist": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "三沙卫视",
+            "num": "0054",
+            "urllist": "http://stream1.hnntv.cn/ssws/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "珠江频道",
+            "num": "0055",
+            "urllist": "http://nclive.grtn.cn/zjpd/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "嘉佳卡通",
+            "num": "0056",
+            "urllist": "http://nclive.grtn.cn/jjkt/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "山东教育",
+            "num": "0057",
+            "urllist": "http://live.sdetv.com.cn/live/sdetv/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "北京影视",
+            "num": "0058",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv4.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "浙江影视",
+            "num": "0059",
+            "urllist": "http://l.cztvcloud.com/channels/lantian/channel05/360p.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江苏影视",
+            "num": "0060",
+            "urllist": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "广东新闻",
+            "num": "0061",
+            "urllist": "http://nclive.grtn.cn/xwpd/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "北京新闻",
+            "num": "0062",
+            "urllist": "http://ivi.bupt.edu.cn/hls/btv9.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "兵团卫视",
+            "num": "0063",
+            "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "金鹰卡通",
+            "num": "0064",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "卡酷少儿",
+            "num": "0065",
+            "urllist": "http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225871/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "宫廷剧场",
+            "num": "0066",
+            "urllist": "http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CD/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "精品大剧",
+            "num": "0067",
+            "urllist": "http://utv.cdn.cmi.chinamobile.com/livehls/MOB-MD/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "动画王国",
+            "num": "0068",
+            "urllist": "http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CART/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青岛1",
+            "num": "0069",
+            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青岛2",
+            "num": "0070",
+            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青岛3",
+            "num": "0071",
+            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青岛4",
+            "num": "0072",
+            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青岛5",
+            "num": "0073",
+            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青岛6",
+            "num": "0074",
+            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "凤凰中文",
+            "num": "0075",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "凤凰资讯",
+            "num": "0076",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "中天新聞",
+            "num": "0077",
+            "urllist": "http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8#http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "非凡新闻",
+            "num": "0078",
+            "urllist": "http://60.199.188.61/HLS/WG_USTV-N/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "东森新闻",
+            "num": "0079",
+            "urllist": "http://125.227.35.176:18080/CtiNews/index.m3u8#http://60.250.23.14:18080/CtiNews/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "壹电视新闻",
+            "num": "0080",
+            "urllist": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "好莱坞中文",
+            "num": "0081",
+            "urllist": "http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "环球电视台",
+            "num": "0082",
+            "urllist": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "澳门卫视",
+            "num": "0083",
+            "urllist": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "英国天空新闻台",
+            "num": "0084",
+            "urllist": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "Knews24新闻",
+            "num": "0085",
+            "urllist": "http://hls.live.kksmg.com/live/live24h/playlist.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid00",
+            "name": "央视"
+        },
+        {
+            "id": "uid01",
+            "name": "卫视"
+        },
+        {
+            "id": "uid02",
+            "name": "资讯"
+        }
+    ]
+}
