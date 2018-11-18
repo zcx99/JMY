@@ -1,460 +1,108 @@
-{
-    "state": true,
-    "data": [
-        {
-            "name": "CCTV1",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV2",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV3",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV4",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV5",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV5+",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225604/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV6",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV7",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225546/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV8",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV9",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV10",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV11",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225552/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV12",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV13",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV14",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CCTV15",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "北京卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江苏卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "湖南卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "浙江卫视",
-            "playUrl": "http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "广东卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "东方卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "深圳卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "山东卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "天津卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "湖北卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 2台",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv02",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 3台",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv03",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 4台",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv04",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 5共",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv05",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 6台",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv06",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 7台",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv07",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江西 8台",
-            "playUrl": "http://live03.jxtvcn.com.cn/live/jxtv08",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "重庆卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "辽宁卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "东南卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225598/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "四川卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225570/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "广西卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225554/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "河北卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225602/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "山西卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225576/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "陕西卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225626/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "贵州卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225540/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青海卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225580/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "安徽卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "宁夏卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225628/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "甘肃卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "新疆卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "云南卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "西藏卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "黑龙江卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "内蒙古卫视",
-            "playUrl": "http://ott.js.chinamobile.com/PLTV/3/224/3221225624/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "旅游卫视",
-            "playUrl": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "三沙卫视",
-            "playUrl": "http://stream1.hnntv.cn/ssws/sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "珠江频道",
-            "playUrl": "http://nclive.grtn.cn/zjpd/sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "嘉佳卡通",
-            "playUrl": "http://nclive.grtn.cn/jjkt/sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "山东教育",
-            "playUrl": "http://live.sdetv.com.cn/live/sdetv/playlist.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "北京影视",
-            "playUrl": "http://ivi.bupt.edu.cn/hls/btv4.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "浙江影视",
-            "playUrl": "http://l.cztvcloud.com/channels/lantian/channel05/360p.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "江苏影视",
-            "playUrl": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "广东新闻",
-            "playUrl": "http://nclive.grtn.cn/xwpd/sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "北京新闻",
-            "playUrl": "http://ivi.bupt.edu.cn/hls/btv9.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "南方卫视(广东版)",
-            "playUrl": "http://stream1.grtn.cn/tvs2/sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "兵团卫视",
-            "playUrl": "http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "金鹰卡通",
-            "playUrl": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "卡酷少儿",
-            "playUrl": "http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225871/1.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "第一财经",
-            "playUrl": "http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "宫廷剧场",
-            "playUrl": "http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CD/playlist.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "精品大剧",
-            "playUrl": "http://utv.cdn.cmi.chinamobile.com/livehls/MOB-MD/playlist.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "动画王国",
-            "playUrl": "http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CART/playlist.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青岛1",
-            "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青岛2",
-            "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青岛3",
-            "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青岛4",
-            "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青岛5",
-            "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "青岛6",
-            "playUrl": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "凤凰中文",
-            "playUrl": "http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "凤凰资讯",
-            "playUrl": "http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "中天新聞",
-            "playUrl": "http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8#http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "年代新闻",
-            "playUrl": "http://60.250.23.14:18080/eranews/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "非凡新闻",
-            "playUrl": "http://60.199.188.61/HLS/WG_USTV-N/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "东森新闻",
-            "playUrl": "http://125.227.35.176:18080/CtiNews/index.m3u8#http://60.250.23.14:18080/CtiNews/index.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "壹电视新闻",
-            "playUrl": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "好莱坞中文",
-            "playUrl": "http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "CHC高清电影",
-            "playUrl": "http://ivi.bupt.edu.cn/hls/chchd.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/chchd#rtmp://58.200.131.3:1935/livetv/chchd",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "环球电视台",
-            "playUrl": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "港台RTHK31",
-            "playUrl": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8?sd=10&rebase=on",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "香港奇妙电视",
-            "playUrl": "http://media.fantv.hk/m3u8/archive/channel2.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "澳门卫视",
-            "playUrl": "http://stream.mastvnet.com/MSTV/SD/live.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "英国天空新闻台",
-            "playUrl": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8",
-            "genre": "自定义分组"
-        },
-        {
-            "name": "Knews24新闻",
-            "playUrl": "http://hls.live.kksmg.com/live/live24h/playlist.m3u8",
-            "genre": "自定义分组"
-        }
-    ]
-}
+CCTV1,http://ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
+CCTV2,http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+CCTV3,http://ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
+CCTV4,http://ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
+CCTV5,http://ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8
+CCTV5+,http://ott.js.chinamobile.com/PLTV/3/224/3221225604/index.m3u8
+CCTV6,http://ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+CCTV7,http://ott.js.chinamobile.com/PLTV/3/224/3221225546/index.m3u8
+CCTV8,http://ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
+CCTV9,http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
+CCTV10,http://ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
+CCTV11,http://ott.js.chinamobile.com/PLTV/3/224/3221225552/index.m3u8
+CCTV12,http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+CCTV13,http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+CCTV14,http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
+
+
+北京卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227246/index.m3u8
+江苏卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227255/index.m3u8
+湖南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227220/index.m3u8
+浙江卫视，http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8
+广东卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
+东方卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+深圳卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227217/index.m3u8
+山东卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227258/index.m3u8
+天津卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
+湖北卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8
+江西卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225536/index.m3u8
+江西 2台，http://live03.jxtvcn.com.cn/live/jxtv02
+江西 3台，http://live03.jxtvcn.com.cn/live/jxtv03
+江西 4台，http://live03.jxtvcn.com.cn/live/jxtv04
+江西 5台，http://live03.jxtvcn.com.cn/live/jxtv05
+江西 6台，http://live03.jxtvcn.com.cn/live/jxtv06
+江西 7台，http://live03.jxtvcn.com.cn/live/jxtv07
+江西 8台，http://live03.jxtvcn.com.cn/live/jxtv08
+
+
+
+
+重庆卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225594/index.m3u8
+辽宁卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225566/index.m3u8
+东南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225598/index.m3u8
+四川卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225570/index.m3u8
+广西卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225554/index.m3u8
+河北卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225602/index.m3u8
+山西卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225576/index.m3u8
+陕西卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225626/index.m3u8
+贵州卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225540/index.m3u8
+青海卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225580/index.m3u8
+安徽卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
+宁夏卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225628/index.m3u8
+甘肃卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8
+新疆卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8
+云南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
+西藏卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225579/index.m3u8
+黑龙江卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227252/index.m3u8
+内蒙古卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225624/index.m3u8
+
+旅游卫视，http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
+三沙卫视，http://stream1.hnntv.cn/ssws/sd/live.m3u8
+珠江频道，http://nclive.grtn.cn/zjpd/sd/live.m3u8
+嘉佳卡通，http://nclive.grtn.cn/jjkt/sd/live.m3u8
+山东教育，http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+北京影视，http://ivi.bupt.edu.cn/hls/btv4.m3u8
+浙江影视，http://l.cztvcloud.com/channels/lantian/channel05/360p.m3u8
+江苏影视，http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+广东新闻，http://nclive.grtn.cn/xwpd/sd/live.m3u8
+北京新闻，http://ivi.bupt.edu.cn/hls/btv9.m3u8
+
+兵团卫视,http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8
+
+金鹰卡通,http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8
+
+卡酷少儿,http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225871/1.m3u8
+
+
+宫廷剧场，http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CD/playlist.m3u8
+精品大剧，http://utv.cdn.cmi.chinamobile.com/livehls/MOB-MD/playlist.m3u8
+动画王国，http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CART/playlist.m3u8
+
+
+青岛1,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
+青岛2,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8
+青岛3,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8
+青岛4,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8
+青岛5,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
+青岛6,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8
+
+
+凤凰中文,http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
+凤凰资讯,http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8
+中天新聞,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8#http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+
+非凡新闻,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
+东森新闻,http://125.227.35.176:18080/CtiNews/index.m3u8#http://60.250.23.14:18080/CtiNews/index.m3u8
+壹电视新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8#http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+
+好莱坞中文,http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
+环球电视台,http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
+英国天空新闻台,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+Knews24新闻,http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+ 
+
+
+
