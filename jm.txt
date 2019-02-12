@@ -72,13 +72,6 @@ CCTV15,http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
 动画王国，http://utv.cdn.cmi.chinamobile.com/livehls/MOB-CART/playlist.m3u8
 
 
-青岛1,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
-青岛2,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8
-青岛3,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8
-青岛4,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8
-青岛5,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
-青岛6,http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8
-
 
 凤凰中文,http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8#http://111.13.42.13/PLTV/88888888/224/3221226142/index.m3u8
